@@ -34,3 +34,11 @@ Be specific and use your own words to describe the aspects of the data.
 * Everyone create 1 (Amory is doing 2) plot of the dataset found [here](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) for the next 2 points
 * Fidelia will complete the next 2.5 points
 * We will collectively research the last point and try to meet on Friday to discuss it and earn the last point
+
+## Plot Ideas
+
+*feel free to add your ideas when you come up with them to prevent accidentally making a similar chart twice*
+
+### Hayden
+
+Comparing the conditional probability of categorical variables to one another to visualize which is the most correlated to heart disease, hypertension, and stroke
