@@ -37,7 +37,7 @@ Be specific and use your own words to describe the aspects of the data.
 
 ## Plot Ideas
 
-*feel free to add your ideas when you come up with them to prevent accidentally making a similar chart twice*
+*Feel free to add your ideas when you come up with them to prevent accidentally making a similar chart twice*
 
 ### Hayden
 
