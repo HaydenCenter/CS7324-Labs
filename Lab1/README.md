@@ -42,3 +42,7 @@ Be specific and use your own words to describe the aspects of the data.
 ### Hayden
 
 Comparing the conditional probability of categorical variables to one another to visualize which is the most correlated to heart disease, hypertension, and stroke
+
+### Amory
+
+Comparing gender, marriage, and hypertension levels
