@@ -30,7 +30,7 @@ Be specific and use your own words to describe the aspects of the data.
 
 * Amory will complete the first 1.5 points
 * Jack will complete the next 1.5 points
-* I will complete the next 1.5 points
+* Hayden will complete the next 1.5 points
 * Everyone create 1 (Amory is doing 2) plot of the dataset found [here](https://www.kaggle.com/fedesoriano/stroke-prediction-dataset) for the next 2 points
 * Fidelia will complete the next 2.5 points
 * We will collectively research the last point and try to meet on Friday to discuss it and earn the last point
